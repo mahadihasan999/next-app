@@ -45,6 +45,7 @@ export default function Home() {
         <li>
           <Link href="/blog/hello-world">Blog Post</Link>
         </li>
+        <div>lorem10</div>
       </ul>
     </>
   );
